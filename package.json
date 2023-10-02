@@ -1,15 +1,11 @@
 {
   "name": "ngx-webcam",
   "version": "0.4.1",
-  "author": "basst314",
+  "author": "Shaykoo",
   "contributors": [
     "davidshen84"
   ],
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/basst314/ngx-webcam.git"
-  },
   "keywords": [
     "Webcam",
     "Camera",

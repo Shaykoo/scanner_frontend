@@ -1,6 +1,6 @@
 /**
  * Container class for a captured webcam image
- * @author basst314, davidshen84
+ * @author , davidshen84
  */
 export class WebcamImage {
 
