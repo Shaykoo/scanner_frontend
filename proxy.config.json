@@ -1,0 +1,7 @@
+{
+    "/coreengine*": {
+        "target":"https://app01.dev.manulife.com",
+        "secure":true,
+        "logLevel":"debug"
+        }
+} 
