@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class ImageService {
-  private backendUrl = 'https://backend-service-86r7.onrender.com'; // Replace with your actual backend URL
+  private backendUrl = 'https://backend-service-86r7.onrender.com';
 
   constructor(private http: HttpClient) {}
 
